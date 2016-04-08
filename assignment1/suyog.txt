@@ -1,11 +1,6 @@
 suyog baldota
 tudip technologies
-
-<<<<<<< HEAD
 changes by Alok
 new file written
 Alok
-=======
-
 Vishal Jagtap
->>>>>>> a58827b35b51ce08389cb3dbc82a6787e4ce4ab8
